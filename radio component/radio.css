@@ -1,0 +1,26 @@
+h1, h2, h3 {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+p {
+  color: #9BA3B7;
+  font-size: 24px;
+}
+
+i {
+  font-size: 20px;
+}
+
+.header {
+  background-color: #ECAD61;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.station-info {
+  background-color: #2D2D37;
+}
